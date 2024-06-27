@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: Please cite this project as follows:
+Hemalatha Sekar. (2024). Bank Marketing Analysis. Retrieved from https://github.com/hemababy/Bank-Marketing.git
+type: software
+title: Bank Marketing  Analysis
+authors:
+- family: sekar
+  given: Hemalatha
+
+license: MIT
+version: 1.0
+date-released: 2024-04-03
