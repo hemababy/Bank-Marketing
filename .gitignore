@@ -1,0 +1,44 @@
+# OS generated files #
+######################
+.DS_Store
+Thumbs.db
+
+# IDE files #
+#############
+.idea/
+.vscode/
+
+# Dependencies #
+################
+node_modules/
+venv/
+__pycache__/
+
+# Build files #
+###############
+*.o
+*.exe
+*.dll
+*.so
+*.dylib
+*.class
+
+# Log files and databases #
+###########################
+*.log
+*.sql
+*.sqlite
+
+# Backup files #
+################
+*~
+*.bak
+*.swp
+*.swo
+
+# Sensitive data #
+##################
+*.pem
+*.pub
+*.key
+secrets.json
